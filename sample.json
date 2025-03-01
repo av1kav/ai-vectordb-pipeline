@@ -1,0 +1,110 @@
+[
+    {
+        "company_id": "123",
+        "company_name": "Rough Brothers Holding Co., Inc",
+        "datapoint_value": "greenhouses",
+        "datapoint_type": "product",
+        "source_urls": [
+            "https://www.growertalks.com/Article/?articleid=21683",
+            "https://www.cincinnati.com/story/money/2015/07/08/rough-brothers-rbi-sold/29870299/"
+        ],
+        "source_inferred": [
+            "null",
+            "null"
+        ],
+        "source_excerpts": [
+            "Rough (rhymes with now) doesnt just design and build greenhouses (commercial, retail and institutional)...",
+            "St. Bernard-based Rough Brothers was founded in 1932 and is among North Americas largest greenhouse manufacturers."
+        ]
+    },
+    {   
+        "company_id": "123",
+        "company_name": "Rough Brothers Holding Co., Inc",
+        "datapoint_value": "solar panel racking systems",
+        "datapoint_type": "product",
+        "source_urls": [
+            "https://www.growertalks.com/Article/?articleid=21683"
+        ],
+        "source_inferred": [
+            "Solar panel racking systems are part of Rough's offerings as they have a division that designs and installs racks for solar panels."
+        ],
+        "source_excerpts": [
+            "they also have a division that designs and installs racks for solar panels."
+        ]
+    },
+    {   
+        "company_id": "456",
+        "company_name": "Greatbatch Ltd.",
+        "datapoint_value": "Laser cutting and welding equipment",
+        "datapoint_type": "product",
+        "source_urls": [
+            "https://www.growertalks.com/Article/?articleid=21683"
+        ],
+        "source_inferred": [
+            "Solar panel racking systems are part of Rough's offerings as they have a division that designs and installs racks for solar panels."
+        ],
+        "source_excerpts": [
+            "they also have a division that designs and installs racks for solar panels."
+        ]
+    },
+    {   
+        "company_id": "999",
+        "company_name": "Pii Holdings, Inc.",
+        "datapoint_value": "2150 Elmwood Avenue Buffalo, NY",
+        "datapoint_type": "location",
+        "source_urls": [
+            "https://www.growertalks.com/Article/?articleid=21683"
+        ],
+        "source_inferred": [
+            "Solar panel racking systems are part of Rough's offerings as they have a division that designs and installs racks for solar panels."
+        ],
+        "source_excerpts": [
+            "they also have a division that designs and installs racks for solar panels."
+        ]
+    },
+    {   
+        "company_id": "999",
+        "company_name": "Pii Holdings, Inc.",
+        "datapoint_value": "gas pipe fixtures",
+        "datapoint_type": "product",
+        "source_urls": [
+            "https://www.growertalks.com/Article/?articleid=21683"
+        ],
+        "source_inferred": [
+            "we do gas pipes on a daily basis."
+        ],
+        "source_excerpts": [
+            "we do gas pipes on a daily basis."
+        ]
+    },
+    {   
+        "company_id": "1010",
+        "company_name": "XYZ Inc.",
+        "datapoint_value": "3288 Main St. Buffalo NY",
+        "datapoint_type": "location",
+        "source_urls": [
+            "https://www.growertalks.com/Article/?articleid=21683"
+        ],
+        "source_inferred": [
+            "."
+        ],
+        "source_excerpts": [
+            "visit our website."
+        ]
+    },
+    {   
+        "company_id": "1010",
+        "company_name": "XYZ Inc.",
+        "datapoint_value": "3D printing",
+        "datapoint_type": "product",
+        "source_urls": [
+            "https://www.growertalks.com/Article/?articleid=21683"
+        ],
+        "source_inferred": [
+            "."
+        ],
+        "source_excerpts": [
+            "our latest resin printers and sintering machines."
+        ]
+    }
+]
